@@ -37,3 +37,11 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+.repository-list-item{
+  justify-content: space-between;
+  max-width: 60%;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
